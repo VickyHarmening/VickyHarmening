@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vicky Harmening.
+- 👀 I’m interested in web development especially for churches and schools, but I'm willing to work on any project.
+- 🌱 I’m currently learning JavaScript, HTML, and CSS through Thinkful's engineering flex program.
+- 💞️ I’m looking to collaborate on any type of project to learn as much as I can and to help someone turn out a superior product for their customer.
