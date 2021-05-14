@@ -1,0 +1,88 @@
+main { /* Sets up my main background color and overall padding. */ 
+  background-color: #caf0f8;
+  padding: 40px;
+}
+
+header, footer { /* Sets up the background, text alignment and padding in the header and footer of my page. */
+  background-color: #03045e;
+  text-align: center;
+  padding: 20px;
+}
+
+h1, h3, h4 { /* Sets up the color and font for my name, title, and copyright. */
+  color: white;
+  font-family: "Lucida Handwriting", cursive;
+}
+
+h2 { /* Sets up the font and font size for my section headers. */
+  font-family: Arial, sans-serif;
+  font-size: 36px;
+}
+
+h1 { /* Font size for my name. */
+  font-size: 54px;
+}
+
+h3 { /* Font size for my title. */
+  font-size: 24px;
+}
+
+h4 { /* Font size for my copyright. */
+  font-size: 16px;
+}
+
+p { /* Font and font size for the paragraghs. */
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+#myImage { /* Positions and sets up the border around my picture. */
+  float: right;
+  padding: 1px;
+  border: 5px solid #03045e;
+  border-radius: 50% 50% 50% 50%;
+  position: relative;
+  top: -30px;
+}
+
+.lineWeightAndPosition { /* Sets my line weight and color. */
+  border: 1px solid #03045e;
+}
+
+section { /* Positions my sections. */
+  position: relative;
+  top: 20px;
+}
+
+h2 { /* Centers my headers in each section. */
+  text-align: center;
+}
+
+a:link {color: white;}
+a:visited {color: red;}
+a:hover {color: orange;}
+a:active {color: green;}
+
+.buttons { /* Makes the buttons for my links. */
+  background-color: #0077b6;
+  padding: 20px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 50%;
+}
+
+.list { /* sets font and size for the lists. */
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+div { /* Centers the link buttons on the page. */
+  text-align: center;
+}
+
+article { /* sets the height and margins for the welcome article */
+  height: 250px;
+  margin: 0 auto;
+}
